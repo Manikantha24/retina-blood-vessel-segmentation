@@ -1,0 +1,10 @@
+numpy
+pandas
+opencv-python
+matplotlib
+scikit-learn
+tensorflow
+keras
+torch
+torchvision
+segmentation-models
