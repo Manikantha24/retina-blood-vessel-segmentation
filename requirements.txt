@@ -3,8 +3,7 @@ pandas
 opencv-python
 matplotlib
 scikit-learn
-tensorflow
-keras
+Pillow
 torch
 torchvision
-segmentation-models
+segmentation-models-pytorch
