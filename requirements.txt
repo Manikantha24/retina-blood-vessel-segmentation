@@ -7,3 +7,5 @@ Pillow
 torch
 torchvision
 segmentation-models-pytorch
+gradio
+huggingface_hub
